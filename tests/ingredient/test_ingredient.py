@@ -21,9 +21,9 @@ def test_ingredient():
 
     for item in presunto.restrictions:
         restrictions.append(repr(item))
-        
+
     restrictions_boolean = False
-    
+
     if restriction1 in restrictions and restriction2 in restrictions:
         restrictions_boolean = True
     assert restrictions_boolean is True
