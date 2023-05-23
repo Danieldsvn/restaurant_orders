@@ -1,13 +1,26 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Restaurant Orders
+ Neste projeto é feito a finalização da ferramenta de construção de cardápios de um restaurante que já fora iniciado. É praticado conceito de Hashmaps,  a ferramenta Pandas, testes e conhecimentos de orientação a objetos.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Tecnologias empregadas:
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Python e o framework:
+
+* Pandas(análise e manipulação de dados)
+
+
+## Habilidades praticadas
+
+  * Praticar o conceito de Hashmaps através das         estruturas  de dados Dict e Setdo Python;
+  * Praticar a ferramenta Pandas junto a sua estrutura de dados DataFrame;
+  * Praticar os conhecimentos de testes de software;
+  * Praticar os conhecimentos de orientação a objetos.
+  
+
+## O que é de minha autoria:
+
+Os arquivos dos diretórios:
+
+* `tests/ingredient/test_ingredient.py`
+* `tests/dish/test_dish.py`
+* `src/services/menu_data.py`
+* O método `get_main_menu` em `src/services/menu_builder.py`
